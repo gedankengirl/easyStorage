@@ -1,0 +1,2 @@
+[core]
+autocrlf = input # core has problems with auto
